@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+  <title>Stylign Blockquotes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="./blockquote.css">
+</head>
+
+<body>
+    <blockquote class="blockquote">
+      <p class="blockquote__text">
+        Hello love!
+      </p>
+    </blockquote>
+</body
